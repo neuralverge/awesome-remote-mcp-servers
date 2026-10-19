@@ -3168,6 +3168,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NanoParse](https://nanoparse.app) `https://nanoparse.app/mcp`
   [![NanoParse MCP connector](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp)
   🔓 - Read any web page as clean Markdown plus 15 trust signals; $0.005 per page in USDC on Base via x402, 10 free.
+- [NeuralVerge](https://docs.neuralverge.ai/mcp-server) `https://api.neuralverge.ai/functions/v1/mcp-server`
+  [![NeuralVerge MCP connector](https://glama.ai/mcp/connectors/ai.neuralverge/neuralverge/badges/score.svg)](https://glama.ai/mcp/connectors/ai.neuralverge/neuralverge)
+  🔑 - Web search, URL-to-JSON extraction and structured data from 300+ company, marketplace and registry sources.
 - [Ni Biashara Shelves](https://agents.nibiashara.biz/docs?ref=dir-awesome-remote) `https://agents.nibiashara.biz/mcp`
   [![Ni Biashara Shelves MCP connector](https://glama.ai/mcp/connectors/biz.nibiashara/shelves/badges/score.svg)](https://glama.ai/mcp/connectors/biz.nibiashara/shelves)
   🔓 - Pay-per-call data checks over x402: FMCSA carrier/broker authority, load vetting, OFAC screens and African FX rates.
